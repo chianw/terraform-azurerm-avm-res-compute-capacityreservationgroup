@@ -1,3 +1,3 @@
-# terraform-azurerm-avm-template
+# terraform-azurerm-avm-res-compute-capacityreservationgroup
 
-This is a template repo for Terraform Azure Verified Modules.
+This AVM module creates an Azure Capacity Reservation Group, and includes a sub-module to create Capactity Reservations
