@@ -136,7 +136,6 @@ DESCRIPTION
   nullable    = false
 }
 
-
 variable "role_assignments" {
   type = map(object({
     role_definition_id_or_name             = string
